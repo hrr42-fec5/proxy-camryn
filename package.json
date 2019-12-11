@@ -1,0 +1,23 @@
+{
+  "name": "proxy-camryn",
+  "version": "1.0.0",
+  "description": "FEC proxy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr42-fec5/proxy-camryn.git"
+  },
+  "author": "Camryn Reid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrr42-fec5/proxy-camryn/issues"
+  },
+  "homepage": "https://github.com/hrr42-fec5/proxy-camryn#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node": "^13.3.0"
+  }
+}
